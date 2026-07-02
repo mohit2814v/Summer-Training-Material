@@ -54,12 +54,8 @@ Summer-Training-Material/
 │   ├── Machine Learning
 │   └── Solutions
 │
-├── Weekly Projects/
-│   ├── Week 1
-│   ├── Week 2
-│   ├── Week 3
-│   └── ...
-│
+├── Weekly Projects...
+│   
 └── README.md
 ```
 
